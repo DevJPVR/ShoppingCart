@@ -75,8 +75,8 @@ Este é um projeto de uma mini loja , focado no carrinho de compras. Através da
 ## 🎨 Layout
 
 
-  <img src="./img/layout/1.png" >
-  <img src="./img/layout/2.png" >
+  <img src="https://raw.githubusercontent.com/DevJPVR/ShoppingCart/main/img/layout/1.PNG" >
+  <img src="https://raw.githubusercontent.com/DevJPVR/ShoppingCart/main/img/layout/2.PNG" >
 
 
 
