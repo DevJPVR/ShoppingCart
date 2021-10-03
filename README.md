@@ -77,6 +77,8 @@ Este é um projeto de uma mini loja , focado no carrinho de compras. Através da
 
   <img src="https://raw.githubusercontent.com/DevJPVR/ShoppingCart/main/img/layout/1.PNG" >
   <img src="https://raw.githubusercontent.com/DevJPVR/ShoppingCart/main/img/layout/2.PNG" >
+  
+  Link para <a href="https://determined-jang-89f92a.netlify.app/"> Testar o projeto
 
 
 
